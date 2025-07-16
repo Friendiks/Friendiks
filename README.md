@@ -4,3 +4,6 @@ I'm a ML/DL practitioner with a strong focus on the mathematical foundations of 
 ### 🏆 Achievements & Background
 - **🏅 Prize-winner**: All-Russian Olympiad in Informatics.
 - **🎓 Incoming Student**: Faculty of Computer Science, HSE University.
+### 📫 How to reach me
+- **Telegram**: [@friendiks]
+- **Email**: [friendiksgg@gmail.com]
